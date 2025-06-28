@@ -1,27 +1,90 @@
-<h1 align="center">Hi 👋, I'm Hemanth Seelam</h1>
-<h3 align="center">Future CSE Professional</h3>
+<!-- RADHAKRISHNALOVEPERMANENT -->
+<!-- AMMALOVEBLESSINGSONRECURSION -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthseelam&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthseelam" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C62A&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+HemanthSeelam;Frontend+Wizard+with+AI+Powers;Weaving+Code+%26+Devotion+Together!"/>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthseelam" alt="hemanthseelam" /></a> </p>
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 📫 How to reach me **hem4691.vu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hemanthseelam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemanthseelam2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemanthseelam159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanthseelam159" height="30" width="40" /></a>
-<a href="https://instagram.com/hemanthseelam159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemanthseelam159" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hem4691vu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hem4691vu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hem4691_vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hem4691_vu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hem4691.vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hem4691.vu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HemanthSeelam&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HemanthSeelam&theme=monokai&margin-w=10&no-bg=true&no-frame=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthseelam&show_icons=true&locale=en&layout=compact" alt="hemanthseelam" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthseelam&" alt="hemanthseelam" /></p>
+### 🚀 About Me
+
+```js
+const HemanthSeelam = {
+  pronouns: "He/His",
+  code: ["JavaScript", "Python", "C"],
+  tools: ["React", "Node", "MongoDB", "Express", "TailwindCSS"],
+  cloud: ["AWS", "Vercel"],
+  currentlyLearning: ["Next.js", "Gemini AI API", "WebRTC"],
+  funFact: "Bhakti is the compiler of my life!"
+}
+```
+
+- 🔭 Building **AI-Powered Mock Interview Platform**
+- 🧠 Exploring **3D & Animated Developer Experiences**
+- 📫 Email me at: **hem4691.vu@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kirety-manne-954045297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ksvid_0007" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/kirety_07" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔧 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,git,github,c,mysql,vercel,bootstrap" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanthSeelam&show_icons=true&theme=radical&count_private=true&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthSeelam&theme=radical&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthSeelam&layout=compact&theme=radical&border_radius=15" />
+</p>
+
+---
+
+### 🌌 3D Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="3D snake animation" />
+</p>
+
+---
+
+### ✨ Quote of Devotion
+
+<p align="center">
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=RADHAKRISHNALOVEPERMANENT;AMMALOVEBLESSINGSONRECURSION;Faith+in+code+and+love+in+every+commit"/> -->
+<!-- </p> -->
+
+---
+
+### 🖼️ Featured Project Banner
+
+<p align="center">
+  <img src="https://github-readme-banner.vercel.app/api?text=Welcome+to+Kirety's+World!&icon=💻&color=gradient&animation=wave" alt="Banner"/>
+</p>

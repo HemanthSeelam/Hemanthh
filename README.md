@@ -37,13 +37,13 @@ const HemanthSeelam = {
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kirety-manne-954045297" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanthseelam159/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/ksvid_0007" target="_blank">
+  <a href="https://leetcode.com/u/Hemanth_159/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/kirety_07" target="_blank">
+  <a href="https://www.hackerrank.com/profile/hem4691_vu" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
